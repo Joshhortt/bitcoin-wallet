@@ -1,4 +1,5 @@
 // Back-End
+//  Business-logic
 const Account = (function () {
   class Account {
     constructor(name, balance) {
@@ -25,6 +26,7 @@ const Account = (function () {
 
 
 // Front-End
+// User Interface logic
 const updateDomBalance = function (balance) {
   $("#currentBalanceDisplay").text(`₿ ${balance.toLocaleString()}`);
 }
@@ -79,8 +81,9 @@ $(document).ready(function () {
     $("#newAccountButton").click(function () {
       newRegistration();
       newAccount.reset();
+// END $("#newAccountButton").click(function ()
     });
-
+// END  $("#registrationForm").submit(function (event) 
   });
-
+// END $(document).ready(function ()
 });
