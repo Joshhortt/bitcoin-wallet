@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(64, 64, 64);
+  color: white;
+  ;
+  margin: 10px
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  color: rgb(255, 127, 0);
+  font-size: 2rem;
+}
+
+label {
+  font-size: 0.80rem;
+}
+
+#transactionDisplay,#balanceDisplay {
+  display: none;
+}
+
+#newAccountButton {
+  margin-top: 15px;
+}
+
+#titleHeader h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 20px;
+  color: rgb(255, 127, 0);
+}
+
+#titleHeader p {
+  font-size: 1.2rem;
+  display: none;
+  color: rgb(250, 185, 21);
+}
+
+.btn {
+  margin-bottom: 30px;
+}
