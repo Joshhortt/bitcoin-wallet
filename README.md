@@ -1,15 +1,16 @@
 # BITCOIN WALLET
 
-_This application is about constructor and a prototype that includes methods using JavaScript_
+_This application is about constructor and a prototype that includes methods using JavaScript_<br/>
 _to create a simple **Bitcoin account**_.<br/>
-_version: 05/06/2019_<br/>
+_version: 05/06/2019_
 
 #### By _**Josh Hortt**_
 
 ## Description
 
-_Use constructor functions and prototypes to create a web-application where a user can_<b/>
-_create a Bitcoin bank account with an initial deposit amount. Then allow the user to make_<b/> _withdrawals,deposits and see the balance of the account. The user can create also a new account_.
+_Use constructor functions and prototypes to create a web-application where a user can_<br/>
+_create a Bitcoin bank account with an initial deposit amount. Then allow the user to make_<br/>
+_withdrawals,deposits and see the balance of the account. The user can create also a new account_.
 
 ## Program Specifications
 
@@ -24,7 +25,7 @@ _create a Bitcoin bank account with an initial deposit amount. Then allow the us
 
 ## Setup/Installation Requirements
 
-Clone repository in a shell using the command:
+_Clone repository in a shell using the command_:<br/>
 `git clone https://github.com/joshhortt/bitcoin-wallet`
 
 ## Known Bugs
@@ -33,7 +34,7 @@ _Due to time constraints the site may not scale perfectly on every device._
 
 ## Support and contact details
 
-_If you have any questions or find any issues with this web-application, get in touch_.<b/>
+_If you have any questions or find any issues with this web-application, get in touch_.<br/>
 _My email is: joshhortt@yahoo.com_
 
 ## Technologies Used
@@ -46,6 +47,4 @@ _My email is: joshhortt@yahoo.com_
 
 ### License
 
-MIT License
-
-Copyright (c) 2019 Josh Hortt
+_**MIT License** Copyright (c) 2019 Josh Hortt_
